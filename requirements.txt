@@ -1,0 +1,8 @@
+Following libraries were used in building, training and evaluating the model:
+torch
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+seaborn
